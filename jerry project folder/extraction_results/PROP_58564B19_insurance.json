@@ -1,0 +1,14 @@
+{
+  "property_id": "PROP_58564B19",
+  "document_type": "insurance",
+  "extraction_date": "2025-10-06T21:17:06.292527",
+  "extraction_data": {
+    "Property Address": "Auto-Extracted from Demo_Property_Profile_Report_2.pdf",
+    "Building Type": "Unknown",
+    "Sale Amount": "N/A",
+    "Municipal Evaluation": "N/A",
+    "Document Type": "Generic Upload",
+    "source_file": "Demo_Property_Profile_Report_2.pdf",
+    "extraction_notes": "Insurance Property Report\n \nProperty Information\nTotal Units: 15 rental units\nProperty Type: Industrial warehouse\nBuilding Type: Steel frame\nBuilding Age: Built 2018\nStories: 2 stories\nFinancial Information\nSale Amount: $4,750,000\nMunicipal Evaluation: $4,500,000\nBuilding Systems\nHeating System: Central Gas\nPlumbing Material: PEX\nRoof: 2021"
+  }
+}

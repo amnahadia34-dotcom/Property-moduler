@@ -1,0 +1,189 @@
+{
+  "system_version": "PROPERTY_CONSOLIDATOR_v1.0",
+  "last_updated": "2025-10-04T13:52:28.355549",
+  "property": {
+    "property_id": "PROP_E75CCE30",
+    "address": {
+      "value": "1300-1302, rue de la Terrière, 3030, rue du Père-Bressani, Trois-Rivières (Québec) G8Z 3K2",
+      "confidence": 95,
+      "source_document": "extraction_rapport_1300_2025_COMPLETE.json",
+      "source_type": "APPRAISAL",
+      "extraction_date": "2025-10-04T13:52:28.344031",
+      "notes": ""
+    },
+    "owner_address": {
+      "value": "Jerry Jean, 9287-2621 Quebec inc., 291 rue Jean Beauchamp, Terrebonne (Québec) J6V 1T9",
+      "confidence": 95,
+      "source_document": "extraction_rapport_1300_2025_COMPLETE.json",
+      "source_type": "APPRAISAL",
+      "extraction_date": "2025-10-04T13:52:28.344040",
+      "notes": ""
+    },
+    "total_units": {
+      "value": 4,
+      "confidence": 95,
+      "source_document": "extraction_rapport_1300_2025_COMPLETE.json",
+      "source_type": "APPRAISAL",
+      "extraction_date": "2025-10-04T13:52:28.344044",
+      "notes": ""
+    },
+    "unit_sizes": {
+      "value": "1x1½, 2x3½, 1x5½",
+      "confidence": 95,
+      "source_document": "extraction_rapport_1300_2025_COMPLETE.json",
+      "source_type": "APPRAISAL",
+      "extraction_date": "2025-10-04T13:52:28.344048",
+      "notes": ""
+    },
+    "building_age": {
+      "value": 65,
+      "confidence": 95,
+      "source_document": "extraction_rapport_1300_2025_COMPLETE.json",
+      "source_type": "APPRAISAL",
+      "extraction_date": "2025-10-04T13:52:28.344051",
+      "notes": ""
+    },
+    "construction_date": {
+      "value": 1960,
+      "confidence": 95,
+      "source_document": "extraction_rapport_1300_2025_COMPLETE.json",
+      "source_type": "APPRAISAL",
+      "extraction_date": "2025-10-04T13:52:28.344054",
+      "notes": ""
+    },
+    "number_of_stories": {
+      "value": 2,
+      "confidence": 95,
+      "source_document": "extraction_rapport_1300_2025_COMPLETE.json",
+      "source_type": "APPRAISAL",
+      "extraction_date": "2025-10-04T13:52:28.344057",
+      "notes": ""
+    },
+    "building_size": {
+      "value": "4,894 sq ft habitable / 2,479 sq ft per floor",
+      "confidence": 95,
+      "source_document": "extraction_rapport_1300_2025_COMPLETE.json",
+      "source_type": "APPRAISAL",
+      "extraction_date": "2025-10-04T13:52:28.344065",
+      "notes": ""
+    },
+    "land_size": {
+      "value": "8,437 sq ft (85' x 99.4')",
+      "confidence": 95,
+      "source_document": "extraction_rapport_1300_2025_COMPLETE.json",
+      "source_type": "APPRAISAL",
+      "extraction_date": "2025-10-04T13:52:28.344069",
+      "notes": ""
+    },
+    "heating_system": {
+      "value": "Electric baseboards, Oil forced air",
+      "confidence": 95,
+      "source_document": "extraction_rapport_1300_2025_COMPLETE.json",
+      "source_type": "APPRAISAL",
+      "extraction_date": "2025-10-04T13:52:28.344072",
+      "notes": ""
+    },
+    "exterior_material": {
+      "value": "Asbestos siding, Concrete",
+      "confidence": 95,
+      "source_document": "extraction_rapport_1300_2025_COMPLETE.json",
+      "source_type": "APPRAISAL",
+      "extraction_date": "2025-10-04T13:52:28.344075",
+      "notes": ""
+    },
+    "foundation_type": {
+      "value": "Poured concrete",
+      "confidence": 95,
+      "source_document": "extraction_rapport_1300_2025_COMPLETE.json",
+      "source_type": "APPRAISAL",
+      "extraction_date": "2025-10-04T13:52:28.344078",
+      "notes": ""
+    },
+    "windows_material": {
+      "value": "PVC",
+      "confidence": 95,
+      "source_document": "extraction_rapport_1300_2025_COMPLETE.json",
+      "source_type": "APPRAISAL",
+      "extraction_date": "2025-10-04T13:52:28.344081",
+      "notes": ""
+    },
+    "windows_age": null,
+    "plumbing_type": {
+      "value": "Copper",
+      "confidence": 95,
+      "source_document": "extraction_rapport_1300_2025_COMPLETE.json",
+      "source_type": "APPRAISAL",
+      "extraction_date": "2025-10-04T13:52:28.344084",
+      "notes": ""
+    },
+    "plumbing_age": null,
+    "electrical": {
+      "value": "To be confirmed from inspection report",
+      "confidence": 95,
+      "source_document": "extraction_rapport_1300_2025_COMPLETE.json",
+      "source_type": "APPRAISAL",
+      "extraction_date": "2025-10-04T13:52:28.344087",
+      "notes": ""
+    },
+    "roofing_material": {
+      "value": "Elastomeric membrane",
+      "confidence": 95,
+      "source_document": "extraction_rapport_1300_2025_COMPLETE.json",
+      "source_type": "APPRAISAL",
+      "extraction_date": "2025-10-04T13:52:28.344090",
+      "notes": ""
+    },
+    "roofing_type": {
+      "value": "Flat/Low-slope",
+      "confidence": 95,
+      "source_document": "extraction_rapport_1300_2025_COMPLETE.json",
+      "source_type": "APPRAISAL",
+      "extraction_date": "2025-10-04T13:52:28.344092",
+      "notes": ""
+    },
+    "roofing_age": null,
+    "water_tank_age": null,
+    "sewer_service": {
+      "value": "Municipal",
+      "confidence": 95,
+      "source_document": "extraction_rapport_1300_2025_COMPLETE.json",
+      "source_type": "APPRAISAL",
+      "extraction_date": "2025-10-04T13:52:28.344095",
+      "notes": ""
+    },
+    "sewer_source": null,
+    "sale_amount": null,
+    "municipal_evaluation": {
+      "value": "$461,600 (Terrain: $84,500 + Bâtiment: $377,100)",
+      "confidence": 95,
+      "source_document": "extraction_rapport_1300_2025_COMPLETE.json",
+      "source_type": "APPRAISAL",
+      "extraction_date": "2025-10-04T13:52:28.344098",
+      "notes": ""
+    },
+    "current_market_value": null,
+    "property_type": {
+      "value": "Residential Multifamily",
+      "confidence": 95,
+      "source_document": "extraction_rapport_1300_2025_COMPLETE.json",
+      "source_type": "APPRAISAL",
+      "extraction_date": "2025-10-04T13:52:28.344101",
+      "notes": ""
+    },
+    "building_type": {
+      "value": "Quadruplex",
+      "confidence": 95,
+      "source_document": "extraction_rapport_1300_2025_COMPLETE.json",
+      "source_type": "APPRAISAL",
+      "extraction_date": "2025-10-04T13:52:28.344103",
+      "notes": ""
+    },
+    "fire_incidents": null,
+    "water_incidents": null,
+    "created_date": "2025-10-04T13:52:28.344005",
+    "last_updated": "2025-10-04T13:52:28.344106",
+    "source_documents": [
+      "extraction_rapport_1300_2025_COMPLETE.json"
+    ]
+  }
+}

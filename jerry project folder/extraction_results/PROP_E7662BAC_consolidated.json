@@ -1,0 +1,18 @@
+{
+  "property": {
+    "property_id": "PROP_E7662BAC",
+    "address": "PropertyValue(value='3005 P\u00e8re-Daniel', confidence=85, source_document='upload', source_type=<DocumentType.INSURANCE: ('Insurance Policy', <ConfidenceLevel.HIGH: 85>)>, extraction_date='2025-10-09T17:30:01.726565', notes='')",
+    "sale_amount": null,
+    "building_type": null,
+    "total_units": null,
+    "heating_system": null,
+    "foundation_type": null,
+    "plumbing_type": null,
+    "water_tank_age": null,
+    "created_date": "2025-10-09T17:30:01.693473",
+    "last_updated": "2025-10-09T17:30:01.726585",
+    "source_documents": [
+      "upload"
+    ]
+  }
+}

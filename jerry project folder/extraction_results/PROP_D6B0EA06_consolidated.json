@@ -1,0 +1,18 @@
+{
+  "property": {
+    "property_id": "PROP_D6B0EA06",
+    "address": "PropertyValue(value='1904 Baillargeon', confidence=85, source_document='upload', source_type=<DocumentType.INSURANCE: ('Insurance Policy', <ConfidenceLevel.HIGH: 85>)>, extraction_date='2025-10-09T17:30:01.833041', notes='')",
+    "sale_amount": null,
+    "building_type": null,
+    "total_units": null,
+    "heating_system": null,
+    "foundation_type": null,
+    "plumbing_type": null,
+    "water_tank_age": null,
+    "created_date": "2025-10-09T17:30:01.692674",
+    "last_updated": "2025-10-09T17:30:01.833066",
+    "source_documents": [
+      "upload"
+    ]
+  }
+}

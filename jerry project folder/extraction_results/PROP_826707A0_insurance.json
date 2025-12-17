@@ -1,0 +1,14 @@
+{
+  "property_id": "PROP_826707A0",
+  "document_type": "insurance",
+  "extraction_date": "2025-10-06T21:17:16.996383",
+  "extraction_data": {
+    "Property Address": "Auto-Extracted from Demo_Property_Profile_Report.pdf",
+    "Building Type": "Unknown",
+    "Sale Amount": "N/A",
+    "Municipal Evaluation": "N/A",
+    "Document Type": "Generic Upload",
+    "source_file": "Demo_Property_Profile_Report.pdf",
+    "extraction_notes": "Insurance Property Report\n \nProperty Information\nTotal Units: 8 rental units\nProperty Type: Commercial building\nBuilding Type: Multi-use\nBuilding Age: Built 2010\nStories: 5 stories\nFinancial Information\nSale Amount: $2,500,000\nMunicipal Evaluation: $2,300,000\nBuilding Systems\nHeating System: Electric\nPlumbing Material: PVC\nRoof: 2020"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "property": {
+    "property_id": "PROP_FA731AE9",
+    "address": null,
+    "sale_amount": null,
+    "building_type": null,
+    "total_units": null,
+    "heating_system": null,
+    "foundation_type": null,
+    "plumbing_type": null,
+    "water_tank_age": null,
+    "created_date": "2025-10-09T17:30:01.693911",
+    "last_updated": "2025-10-09T17:30:01.693922",
+    "source_documents": []
+  }
+}

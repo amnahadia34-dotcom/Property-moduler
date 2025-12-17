@@ -1,0 +1,83 @@
+[
+  {
+    "address": "1300-1302 Rue de Terrière",
+    "loan_balance": "$413,166.25",
+    "interest_rate": "5.160%",
+    "property_type": "Residential",
+    "units": 4,
+    "city": "Trois-Rivières",
+    "property_id": "PROP_E75CCE30"
+  },
+  {
+    "address": "3005 Père-Daniel",
+    "loan_balance": "$906,549.67",
+    "interest_rate": "6.720%",
+    "property_type": "Residential",
+    "units": 7,
+    "city": "Trois-Rivières",
+    "property_id": "PROP_49A54798"
+  },
+  {
+    "address": "1904 Baillargeon",
+    "loan_balance": "$738,764.26",
+    "interest_rate": "6.200%",
+    "property_type": "Residential",
+    "units": 1,
+    "city": "Trois-Rivières",
+    "property_id": "PROP_D7997857"
+  },
+  {
+    "address": "17175 des Acadiens",
+    "loan_balance": "$203,825.21",
+    "interest_rate": "2.100%",
+    "property_type": "Residential",
+    "units": 1,
+    "city": "Trois-Rivières",
+    "property_id": "PROP_E850BD59"
+  },
+  {
+    "address": "735-741 Bureau",
+    "loan_balance": "$364,941.43",
+    "interest_rate": "6.560%",
+    "property_type": "Residential",
+    "units": 1,
+    "city": "Trois-Rivières",
+    "property_id": "PROP_79A4432A"
+  },
+  {
+    "address": "775-783 St-Roch",
+    "loan_balance": "$295,328.20",
+    "interest_rate": "6.930%",
+    "property_type": "Residential",
+    "units": 1,
+    "city": "Trois-Rivières",
+    "property_id": "PROP_C2B66038"
+  },
+  {
+    "address": "1665 Ste-Marguerite",
+    "loan_balance": "$235,243.29",
+    "interest_rate": "4.840%",
+    "property_type": "Residential",
+    "units": 1,
+    "city": "Trois-Rivières",
+    "property_id": "PROP_131922E4"
+  },
+  {
+    "address": "2038 Baillargeon",
+    "loan_balance": "$228,125.24",
+    "interest_rate": "4.640%",
+    "property_type": "Residential",
+    "units": 1,
+    "city": "Trois-Rivières",
+    "property_id": "PROP_36233FD4"
+  },
+  {
+    "address": "1938 Baillargeon",
+    "loan_balance": "$293,927.15",
+    "interest_rate": "4.740%",
+    "property_type": "Residential",
+    "units": 1,
+    "city": "Trois-Rivières",
+    "property_id": "PROP_2BB231C2"
+  }
+]
